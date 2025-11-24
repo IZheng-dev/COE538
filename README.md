@@ -1,2 +1,2 @@
-# TMU-Lab
+# COE538
 TMU Laboratory Assignments
